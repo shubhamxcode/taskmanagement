@@ -6,7 +6,7 @@ import { PrismaClient } from '@prisma/client';
 import cors from 'cors';
 import dotenv from 'dotenv';
 
-dotenv.config();
+dotenv.config({ quiet: true });
 
 const { Pool } = pg;
 const app = express();
