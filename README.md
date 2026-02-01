@@ -30,14 +30,6 @@
 
 ---
 
-## 🌐 Live Demo & Deployment
-
-| Component | URL | Provider |
-| :--- | :--- | :--- |
-| **Frontend App** | [Live Link](https://taskmanagement-ruddy.vercel.app) | **Vercel** |
-| **Backend API** | [API Gateway](https://taskmanagement-5yfy.onrender.com/api/tasks) | **Render** |
-
----
 
 ## 🚀 Quick Start (Local Setup)
 
